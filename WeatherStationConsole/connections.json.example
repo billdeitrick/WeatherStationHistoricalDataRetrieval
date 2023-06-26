@@ -1,0 +1,5 @@
+{
+  "MacAddress": "XX:XX:XX:XX:XX:XX",
+  "ApiKeys": [ "apikey1" ],
+  "ApplicationKey": "appkey1"
+}
